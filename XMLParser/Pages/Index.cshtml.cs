@@ -53,8 +53,6 @@ namespace XMLParser.Pages
                 return RedirectToPage("/Error");
             }
         }
-
-
     }
 
     public class ItemDetails
